@@ -1,4 +1,4 @@
-# Dependency-Injection
+# Dependency Injection - Constructor & Setter
 
 Dependency Injection, bağımlılıkları soyutlamak demektir.
 
